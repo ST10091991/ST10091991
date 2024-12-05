@@ -15,4 +15,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/christiaan-v-91b173226/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/christiaan-v-91b173226/)
