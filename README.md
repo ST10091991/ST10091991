@@ -31,7 +31,7 @@ Here's what I work with:
 Here are some highlights of my work:  
 
 - [**Equestrian Horse Riding**](https://github.com/ST10019838/Team-Quaternary_XBCAD7319)  
-  A dynamic .  
+  A dynamic web based application specifically designed to aid an equestrian horse riding business in managing lessons and payments.
   **Tech Used:** Next.js, TypeScript, HTML, CSS, Supabase(PostgreSQL), Clerk
 
 - [**ClockSavvy - Your time management and coordination application**](https://github.com/ST10091991/OPSC-Group-E.git)  
@@ -70,6 +70,21 @@ Here’s a snapshot of my contributions and activity:
 
 ---
 
+## 💡 Soft Skills  
+- 🔄 **Teamwork**: Collaborated in Scrum teams and worked with various cross-functional teams.
+- 🗣️ **Communication**: Strong written and verbal communication, delivering clear technical explanations.
+- 🧠 **Problem Solving**: Always finding creative and efficient solutions to technical challenges.
+- 🎯 **Time Management**: Effectively managing multiple projects and deadlines.
+
+---
+
+## 🌟 Fun Facts  
+- 🎮 Avid gamer with a love for sci-fi strategy games!  
+- 📚 Obsessed with reading tech blogs and keeping up with the latest in AI and machine learning.  
+- 🚀 My dream project is creating a cross-platform app that merges tech with everyday life in fun and creative ways.
+
+---
+
 ## 📫 Connect With Me  
 Let’s collaborate or chat about exciting projects!  
 
@@ -77,5 +92,3 @@ Let’s collaborate or chat about exciting projects!
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/ST10091991)  
 
 ---
-
-_**"Consistency and persistence fuel progress."**_
