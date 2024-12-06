@@ -4,6 +4,15 @@
 Welcome to my GitHub profile! I'm an IT professional with a passion for application development, troubleshooting, and creating impactful solutions. With a Bachelor's in Computer and Information Sciences (Application Development), I'm ready to tackle challenges and build innovative projects.  
 
 ---
+## 🚀 CI/CD Tools & DevOps Practices  
+I am skilled in automating deployment and improving code quality through the following tools:  
+
+- **CircleCI Pipeline**: Automated continuous integration and deployment pipelines to streamline testing and releases.
+- **SonarQube**: Implemented code quality checks to maintain high standards in the development process.
+- **Snyk**: Integrated security testing into CI/CD pipelines to identify and resolve vulnerabilities in dependencies.
+- **GitHub Actions**: Used for automating workflows such as testing, deployment, and build processes across various projects.
+
+---
 
 ## 🔧 Tech Stack  
 Here's what I work with:  
